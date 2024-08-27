@@ -52,7 +52,7 @@ My research focuses primarily on continual learning and incremental pre-training
 
 # 📖 Educations
 - *2023.09 - Now*, Ph.D. in Computer Science and Technology. Supervisor: Prof. Wanxiang Che
-- *2019.08 - 2023.06*, B.S. in Computer Science and Technology.
+- *2019.08 - 2023.06*, B.E. in Computer Science and Technology.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
