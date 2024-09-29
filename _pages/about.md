@@ -23,6 +23,7 @@ My research focuses primarily on continual learning and incremental pre-training
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 We release [Abacus Code LLM](https://github.com/HIT-SCIR/Abacus)
 - *2024.09*: &nbsp;🎉🎉 We release [Huozi 3.5](https://github.com/HIT-SCIR/huozi)
 - *2024.02*: &nbsp;🎉🎉 We release [Huozi 3.0](https://github.com/HIT-SCIR/huozi)
 - *2024.01*: &nbsp;🎉🎉 We release [Chinese-Mixtral-8x7B](https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B).
@@ -44,8 +45,9 @@ My research focuses primarily on continual learning and incremental pre-training
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🛠️ Projects
-- [Huozi Series](https://github.com/HIT-SCIR/huozi)
-- [Chinese-Mixtral-8x7B](https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B)
+- [Abacus Code LLM](https://github.com/HIT-SCIR/Abacus)
+- [Huozi LLM Series](https://github.com/HIT-SCIR/huozi)
+- [Chinese-Mixtral-8x7B LLM](https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B)
 
 # 🎖️ Honors and Awards
 - *2023*, Outstanding Graduates.
