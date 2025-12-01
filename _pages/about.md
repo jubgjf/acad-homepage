@@ -28,21 +28,9 @@ My research focuses primarily on continual learning and incremental pre-training
 - *2024.02*: &nbsp;🎉🎉 We release [Huozi 3.0](https://github.com/HIT-SCIR/huozi)
 - *2024.01*: &nbsp;🎉🎉 We release [Chinese-Mixtral-8x7B](https://github.com/HIT-SCIR/Chinese-Mixtral-8x7B)
 
-<!-- # 📝 Publications 
+# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- `AAAI 2026` [Beware of Reasoning Overconfidence: Pitfalls in the Reasoning Process for Multi-solution Tasks](https://arxiv.org/abs/xxx), **Jiannan Guan**, Qiguang Chen, Libo Qin, Dengyun Peng, Jinhao Liu, Liangyu Huo, Jian Xie, Wanxiang Che. [![](https://img.shields.io/github/stars/jubgjf/reasoning-overconfidence)](https://github.com/jubgjf/reasoning-overconfidence)
 
 # 🛠️ Projects
 - [Abacus Code LLM](https://github.com/HIT-SCIR/Abacus) &nbsp;![](https://img.shields.io/github/stars/HIT-SCIR/Abacus)
