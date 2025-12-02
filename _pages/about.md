@@ -30,7 +30,7 @@ My research focuses primarily on continual learning and incremental pre-training
 
 # 📝 Publications 
 
-- `AAAI 2026` [Beware of Reasoning Overconfidence: Pitfalls in the Reasoning Process for Multi-solution Tasks](https://arxiv.org/abs/xxx), **Jiannan Guan**, Qiguang Chen, Libo Qin, Dengyun Peng, Jinhao Liu, Liangyu Huo, Jian Xie, Wanxiang Che. [![](https://img.shields.io/github/stars/jubgjf/reasoning-overconfidence)](https://github.com/jubgjf/reasoning-overconfidence)
+- `AAAI 2026` [Beware of Reasoning Overconfidence: Pitfalls in the Reasoning Process for Multi-solution Tasks](https://arxiv.org/abs/2512.01725), **Jiannan Guan**, Qiguang Chen, Libo Qin, Dengyun Peng, Jinhao Liu, Liangyu Huo, Jian Xie, Wanxiang Che. [![](https://img.shields.io/github/stars/jubgjf/reasoning-overconfidence)](https://github.com/jubgjf/reasoning-overconfidence)
 
 # 🛠️ Projects
 - [Abacus Code LLM](https://github.com/HIT-SCIR/Abacus) &nbsp;![](https://img.shields.io/github/stars/HIT-SCIR/Abacus)
